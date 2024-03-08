@@ -13,7 +13,7 @@ Start the development server with:
 This will start the server on http://localhost:3000. You can test the API endpoints using a tool like Postman or Insomnia.
 
 ## API Documentation
-After starting the development server, you can access the API documentation at https://youtubesubscribersbackend.onrender.com/ or https://youtube-subscribers-backend-five.vercel.app/.
+After starting the development server, you can access the API documentation at https://youtubesubscribersbackend.onrender.com/
 
 ## Environment Variables
 This project uses the following environment variables:
@@ -36,9 +36,10 @@ To learn more about the technologies used in this project, take a look at the fo
 - Node.js Documentation - learn about Node.js features and APIs.
   
 ## Deploy on Vercel
-The easiest way to deploy your backend service is to use the Vercel Platform from the creators of Next.js.
+The easiest way to deploy your backend service is to use the Render Platform.
 
-This project is configured for easy deployment on Vercel with a vercel.json configuration file. For more details, check out the Vercel deployment documentation.
+For more information on deploying Node.js applications on Render, check out the Render Node.js Deployment Documentation.
+This project is configured for easy deployment on Render.
 
 ## Contributing
 Your feedback and contributions are welcome! Please open an issue or submit a pull request for any changes.
