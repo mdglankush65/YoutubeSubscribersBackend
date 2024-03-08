@@ -1,5 +1,5 @@
-# youtubeSubscriber
-Youtube Subscribers Backend Service
+# Youtube Subscriber
+## Youtube Subscribers Backend Service
 This is a backend project for managing Youtube subscribers, developed using Node.js, Express.js, and Mongoose. It's designed to work with a frontend application by providing API endpoints for subscribing to a Youtube channel, listing subscribers, and more.
 
 ## Getting Started
@@ -13,7 +13,7 @@ Start the development server with:
 This will start the server on http://localhost:3000. You can test the API endpoints using a tool like Postman or Insomnia.
 
 ## API Documentation
-After starting the development server, you can access the API documentation at https://youtubesubscribersbackend.onrender.com/.
+After starting the development server, you can access the API documentation at https://youtubesubscribersbackend.onrender.com/ or https://youtube-subscribers-backend-five.vercel.app/.
 
 ## Environment Variables
 This project uses the following environment variables:
