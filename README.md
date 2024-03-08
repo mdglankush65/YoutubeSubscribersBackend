@@ -35,7 +35,7 @@ To learn more about the technologies used in this project, take a look at the fo
 - Mongoose Documentation - learn how to model your application data with Mongoose.
 - Node.js Documentation - learn about Node.js features and APIs.
   
-## Deploy on Vercel
+## Deploy on Render
 The easiest way to deploy your backend service is to use the Render Platform.
 
 For more information on deploying Node.js applications on Render, check out the Render Node.js Deployment Documentation.
